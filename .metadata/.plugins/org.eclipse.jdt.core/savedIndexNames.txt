@@ -1,0 +1,24 @@
+INDEX VERSION 1.134+C:\Users\marco\OneDrive\Programação orientada a objetos\trabalho teste\JpaHibernate\.metadata\.plugins\org.eclipse.jdt.core
+4157697760.index
+1272787122.index
+688458957.index
+233081210.index
+302727426.index
+4196833768.index
+1865797976.index
+2294292731.index
+896142797.index
+4070041273.index
+261933091.index
+458419968.index
+3087514809.index
+1437810314.index
+173529432.index
+1311388581.index
+3475068241.index
+299863897.index
+3687796449.index
+3479747036.index
+1446665702.index
+3306558124.index
+3534340685.index
